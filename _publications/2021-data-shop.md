@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Toward a cross-platform framework: Assessing the comprehensiveness of online rental housing markets"
 collection: publications
 permalink: /publications/2021-data-shop
 date: 2021-06-01

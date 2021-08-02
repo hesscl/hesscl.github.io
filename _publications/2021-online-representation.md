@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Searching for housing in the digital age: Neighborhood representation on internet rental housing platforms across space, platform, and metropolitan segregation"
 collection: publications
 permalink: /publications/2021-online-representation
 date: 2021-07-01
