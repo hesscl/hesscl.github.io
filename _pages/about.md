@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently an Assistant Professor of Sociology in Department of Sociology and Criminal Justice at Kennesaw State University. Prior to this faculty appointment, I served as a postdoc at Cornell University in the Jeb E. Brooks School of Public Policy and I received my Ph.D in Sociology from the University of Washington.
+I'm currently an Assistant Professor of Sociology in the Department of Sociology and Criminal Justice at Kennesaw State University. Prior to this faculty appointment, I served as a postdoc at Cornell University in the Jeb E. Brooks School of Public Policy and I received my Ph.D in Sociology from the University of Washington.
 
 My research focuses on topics of residential segregation, neighborhoods and the changing geography of place-based inequalities, and my work has appeared in peer-reviewed outlets like _Demography_, _Urban Affairs Review_ and  _Social Forces_. Across my research, I'm a data omnivore and a big proponent of the R language for statistics and data visualization. I especially ❤ ggplot2.
 
