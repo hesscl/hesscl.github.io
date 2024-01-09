@@ -1,5 +1,5 @@
 ---
-title: "Stewart, R., Hess, C., Kennedy, I., & Crowder, K. (2023). Move-In Fees as a Residential Sorting Mechanism Within Online Rental Markets"
+title: "Move-In Fees as a Residential Sorting Mechanism Within Online Rental Markets"
 collection: publications
 permalink: /publications/2023-move-in-fees
 date: 2023-03-01
