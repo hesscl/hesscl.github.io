@@ -1,14 +1,8 @@
 cv:
   name: Chris Hess
-  label: Sociologist
+  label: Assistant Professor of Sociology
   email: chess11@kennesaw.edu
   location: Kennesaw, GA
-  image: ""
-  summary: Assistant Professor of Sociology at Kennesaw State University. Research on residential segregation, housing markets, neighborhood change, urban crime, and veteran health.
-
-  social_networks:
-    - network: GitHub
-      username: hesscl
 
   sections:
     Education:
@@ -33,9 +27,9 @@ cv:
         start_date: 2009
         end_date: 2013
 
-    Academic Positions:
+    Experience:
       - company: Kennesaw State University
-        position: Assistant Professor
+        position: Assistant Professor of Sociology
         location: Kennesaw, GA
         start_date: 2022
         end_date: present
@@ -67,80 +61,38 @@ cv:
           - Center for Urban Research and Education
 
     Research Grants:
-      - title: "Veterans & Visionaries: Veterans in the Southeast and the Civil Rights Movement"
-        date: 2025
-        awarder: U.S. Department of Veterans Affairs Veteran Legacy Grant Program
-        summary: Co-Principal Investigator. $341K. PI&#58; Kristin Horan; Co-I&#58; Brian Moore.
-
-      - title: "Veterans and Visionaries: Georgia's World War II Veterans and the Civil Rights Movement"
-        date: 2024
-        awarder: U.S. Department of Veterans Affairs Veteran Legacy Grant Program
-        summary: Co-Principal Investigator. $311K. PI&#58; Kristin Horan; Co-I&#58; Brian Moore.
-
-      - title: "SSG Parker Gordon Fox Suicide Prevention Grant Extension for Year 2"
-        date: 2024
-        awarder: Georgia Department of Veterans Service
-        summary: Co-Investigator. $2.25M total ($1.74M to KSU). PI&#58; Tricia Ross (GDVS); Co-PI&#58; Brian Moore.
-
-      - title: "SSG Parker Gordon Fox Suicide Prevention Grant"
-        date: 2023
-        awarder: U.S. Department of Veterans Affairs
-        summary: Co-Investigator. $2.25M total ($315K to KSU). PI&#58; Highland Rivers.
-
-      - title: "Georgia's Expansion of Suicide Prevention Activities"
-        date: 2023
-        awarder: CDC Comprehensive Suicide Prevention Program
-        summary: Co-Investigator. $4.35M total ($675K to KSU). PI&#58; DeAndre Cain (GA DBHDD).
-
-      - title: "Georgia Prevention of Suicide"
-        date: 2022
-        awarder: Georgia Department of Veterans Service
-        summary: Co-Investigator. $2.25M total ($1.74M to KSU). PI&#58; Tricia Ross (GDVS); Co-PI&#58; Brian Moore.
+      - label: "Co-PI (2025): \"Veterans & Visionaries: Veterans in the Southeast and the Civil Rights Movement\""
+        details: "U.S. Department of Veterans Affairs Veteran Legacy Grant Program. $341K. PI: Kristin Horan; Co-I: Brian Moore."
+      - label: "Co-PI (2024): \"Veterans and Visionaries: Georgia's World War II Veterans and the Civil Rights Movement\""
+        details: "U.S. Department of Veterans Affairs Veteran Legacy Grant Program. $311K. PI: Kristin Horan; Co-I: Brian Moore."
+      - label: "Co-I (2024): \"SSG Parker Gordon Fox Suicide Prevention Grant Extension for Year 2\""
+        details: "Georgia Department of Veterans Service. $2.25M ($1.74M to KSU). PI: Tricia Ross; Co-PI: Brian Moore."
+      - label: "Co-I (2023): \"SSG Parker Gordon Fox Suicide Prevention Grant\""
+        details: "U.S. Department of Veterans Affairs. $2.25M ($315K to KSU). PI: Highland Rivers."
+      - label: "Co-I (2023): \"Georgia's Expansion of Suicide Prevention Activities\""
+        details: "CDC Comprehensive Suicide Prevention Program. $4.35M ($675K to KSU). PI: DeAndre Cain."
+      - label: "Co-I (2022): \"Georgia Prevention of Suicide\""
+        details: "Georgia Department of Veterans Service. $2.25M ($1.74M to KSU). PI: Tricia Ross; Co-PI: Brian Moore."
 
     Teaching:
-      - company: Kennesaw State University
-        position: Instructor of Record
-        location: Kennesaw, GA
-        start_date: 2022
-        end_date: present
-        highlights:
-          - "Introduction to Sociology (Fall '22, Spring '23, Spring '24)"
-          - "The Sociology of Housing (Spring '23)"
-          - "Research Methods in Sociology (Spring '24, Fall '24, Spring '25)"
-          - "Criminology (Fall '24)"
-          - "Research Methods in Criminal Justice (Fall '23)"
-
-      - company: Cornell University (Executive MPA Program)
-        position: Instructor of Record
-        location: Ithaca, NY
-        start_date: 2022
-        end_date: 2023
-        highlights:
-          - "Introduction to R (Fall '22, Fall '23)"
-
-      - company: Cornell University
-        position: Programming Instructor
-        location: Ithaca, NY
-        start_date: 2020
-        end_date: 2021
-        highlights:
-          - "Big Data for Big Policy Problems (Fall '20, Spring '21)"
-
-      - company: Cornell University
-        position: Seminar Facilitator
-        location: Ithaca, NY
-        start_date: 2021
-        end_date: 2021
-        highlights:
-          - "Principles of Demography (Fall '21)"
-
-      - company: University of Washington
-        position: Instructor of Record
-        location: Seattle, WA
-        start_date: 2019
-        end_date: 2019
-        highlights:
-          - "Foundations of Social Inquiry (Summer '19)"
+      - label: "Introduction to Sociology"
+        details: "Kennesaw State University. Fall 2022, Spring 2023, Spring 2024."
+      - label: "The Sociology of Housing"
+        details: "Kennesaw State University. Spring 2023."
+      - label: "Research Methods in Sociology"
+        details: "Kennesaw State University. Spring 2024, Fall 2024, Spring 2025."
+      - label: "Criminology"
+        details: "Kennesaw State University. Fall 2024."
+      - label: "Research Methods in Criminal Justice"
+        details: "Kennesaw State University. Fall 2023."
+      - label: "Introduction to R"
+        details: "Cornell University (Executive MPA). Fall 2022, Fall 2023."
+      - label: "Big Data for Big Policy Problems"
+        details: "Cornell University. Fall 2020, Spring 2021."
+      - label: "Principles of Demography"
+        details: "Cornell University (seminar facilitator). Fall 2021."
+      - label: "Foundations of Social Inquiry"
+        details: "University of Washington. Summer 2019."
 
     Awards:
       - title: KSU Top Researcher Recognition
@@ -148,17 +100,11 @@ cv:
         awarder: Kennesaw State University
 
     Service:
-      - company: AMES Research Center, KSU
-        position: Faculty Affiliate and Data Core Member
-        start_date: 2022
-        end_date: present
-
-      - company: KSU Department of Sociology & Criminal Justice
-        position: Curriculum Committee Member
-        start_date: 2022
-        end_date: present
-
-      - company: Journal Reviewer
-        position: Ad Hoc Reviewer
-        highlights:
-          - American Sociological Review, Social Forces, Social Problems, Demography, Socius, Urban Affairs Review, Urban Studies, City & Community, Sociology of Race and Ethnicity, Spatial Demography, Housing Studies, Housing Policy Debate, Journal of Urban Affairs, Journal of Research on Crime and Delinquency, American Journal of Criminal Justice, Nature&#58; Cities, The Professional Geographer, Annals of the American Academy of Geographers, Demographic Research, Journal of Economic Inequality, Latino Studies, Health and Social Care in the Community, Urban Planning
+      - bullet: "Faculty Affiliate and Data Core Member, AMES Research Center, KSU (current)"
+      - bullet: "Curriculum Committee Member, KSU Sociology Program (current)"
+      - bullet: "Programming Instructor, NextGenPop Undergraduate Program in Population Research (2023)"
+      - bullet: "Discussant, PAA Annual Meeting — \"Race, Ethnicity and Immigration: Neighborhoods and Communities\" (2023)"
+      - bullet: "Chair, ASC Annual Meeting — \"Fear of Crime Victimization\" (2023)"
+      - bullet: "Organizer, Cornell Computational Policy Working Group (2021)"
+      - bullet: "Discussant, PAA Annual Meeting — \"Segregation and Neighborhood Change\" (2021)"
+      - bullet: "Ad hoc reviewer: American Sociological Review, Social Forces, Social Problems, Demography, Socius, Urban Affairs Review, Urban Studies, City & Community, Sociology of Race and Ethnicity, Spatial Demography, Housing Studies, Housing Policy Debate, Journal of Urban Affairs, Journal of Research on Crime and Delinquency, American Journal of Criminal Justice, Nature: Cities, The Professional Geographer, Annals of the American Academy of Geographers, Demographic Research, Journal of Economic Inequality, Latino Studies, Health and Social Care in the Community, Urban Planning"
