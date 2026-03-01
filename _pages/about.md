@@ -32,6 +32,6 @@ My research spans four interrelated streams:
 
 In addition to my empirical research, I develop open-source data infrastructure for social science, including Model Context Protocol (MCP) servers that connect AI assistants to public datasets such as the U.S. Census, CDC WONDER, and IPUMS—lowering the barrier to data-intensive research.
 
-I am a faculty affiliate of the [AMES Research Center](https://ames.kennesaw.edu/) at KSU. Prior to KSU I held postdoctoral positions at Rutgers–Camden and Cornell University. I received my PhD in Sociology from the University of Washington in 2019.
+I am a faculty affiliate of the [AMES Research Center](https://campus.kennesaw.edu/offices-services/research/centers-facilities/ames-center/index.php) at KSU. Prior to KSU I held postdoctoral positions at Rutgers–Camden and Cornell University. I received my PhD in Sociology from the University of Washington in 2019.
 
 [Google Scholar](https://scholar.google.com/citations?user=v3Db_L4AAAAJ) &nbsp;·&nbsp; [GitHub](https://github.com/hesscl) &nbsp;·&nbsp; [CV](/cv/)
