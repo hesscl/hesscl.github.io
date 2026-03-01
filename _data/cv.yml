@@ -1,0 +1,164 @@
+cv:
+  name: Chris Hess
+  label: Sociologist
+  email: chess11@kennesaw.edu
+  location: Kennesaw, GA
+  image: ""
+  summary: Assistant Professor of Sociology at Kennesaw State University. Research on residential segregation, housing markets, neighborhood change, urban crime, and veteran health.
+
+  social_networks:
+    - network: GitHub
+      username: hesscl
+
+  sections:
+    Education:
+      - institution: University of Washington
+        location: Seattle, WA
+        area: Sociology
+        studyType: PhD
+        start_date: 2013
+        end_date: 2019
+
+      - institution: University of Washington
+        location: Seattle, WA
+        area: Sociology
+        studyType: MA
+        start_date: 2013
+        end_date: 2016
+
+      - institution: Louisiana State University
+        location: Baton Rouge, LA
+        area: Political Science; Psychology
+        studyType: BA / BS
+        start_date: 2009
+        end_date: 2013
+
+    Academic Positions:
+      - company: Kennesaw State University
+        position: Assistant Professor
+        location: Kennesaw, GA
+        start_date: 2022
+        end_date: present
+        highlights:
+          - Department of Sociology and Criminal Justice
+
+      - company: Cornell University
+        position: Lecturer
+        location: Ithaca, NY
+        start_date: 2022
+        end_date: 2023
+        highlights:
+          - Jeb E. Brooks School of Public Policy
+
+      - company: Cornell University
+        position: Postdoctoral Associate
+        location: Ithaca, NY
+        start_date: 2020
+        end_date: 2022
+        highlights:
+          - Jeb E. Brooks School of Public Policy
+
+      - company: Rutgers University–Camden
+        position: Postdoctoral Fellow
+        location: Camden, NJ
+        start_date: 2019
+        end_date: 2020
+        highlights:
+          - Center for Urban Research and Education
+
+    Research Grants:
+      - title: "Veterans & Visionaries: Veterans in the Southeast and the Civil Rights Movement"
+        date: 2025
+        awarder: U.S. Department of Veterans Affairs Veteran Legacy Grant Program
+        summary: Co-Principal Investigator. $341K. PI&#58; Kristin Horan; Co-I&#58; Brian Moore.
+
+      - title: "Veterans and Visionaries: Georgia's World War II Veterans and the Civil Rights Movement"
+        date: 2024
+        awarder: U.S. Department of Veterans Affairs Veteran Legacy Grant Program
+        summary: Co-Principal Investigator. $311K. PI&#58; Kristin Horan; Co-I&#58; Brian Moore.
+
+      - title: "SSG Parker Gordon Fox Suicide Prevention Grant Extension for Year 2"
+        date: 2024
+        awarder: Georgia Department of Veterans Service
+        summary: Co-Investigator. $2.25M total ($1.74M to KSU). PI&#58; Tricia Ross (GDVS); Co-PI&#58; Brian Moore.
+
+      - title: "SSG Parker Gordon Fox Suicide Prevention Grant"
+        date: 2023
+        awarder: U.S. Department of Veterans Affairs
+        summary: Co-Investigator. $2.25M total ($315K to KSU). PI&#58; Highland Rivers.
+
+      - title: "Georgia's Expansion of Suicide Prevention Activities"
+        date: 2023
+        awarder: CDC Comprehensive Suicide Prevention Program
+        summary: Co-Investigator. $4.35M total ($675K to KSU). PI&#58; DeAndre Cain (GA DBHDD).
+
+      - title: "Georgia Prevention of Suicide"
+        date: 2022
+        awarder: Georgia Department of Veterans Service
+        summary: Co-Investigator. $2.25M total ($1.74M to KSU). PI&#58; Tricia Ross (GDVS); Co-PI&#58; Brian Moore.
+
+    Teaching:
+      - company: Kennesaw State University
+        position: Instructor of Record
+        location: Kennesaw, GA
+        start_date: 2022
+        end_date: present
+        highlights:
+          - "Introduction to Sociology (Fall '22, Spring '23, Spring '24)"
+          - "The Sociology of Housing (Spring '23)"
+          - "Research Methods in Sociology (Spring '24, Fall '24, Spring '25)"
+          - "Criminology (Fall '24)"
+          - "Research Methods in Criminal Justice (Fall '23)"
+
+      - company: Cornell University (Executive MPA Program)
+        position: Instructor of Record
+        location: Ithaca, NY
+        start_date: 2022
+        end_date: 2023
+        highlights:
+          - "Introduction to R (Fall '22, Fall '23)"
+
+      - company: Cornell University
+        position: Programming Instructor
+        location: Ithaca, NY
+        start_date: 2020
+        end_date: 2021
+        highlights:
+          - "Big Data for Big Policy Problems (Fall '20, Spring '21)"
+
+      - company: Cornell University
+        position: Seminar Facilitator
+        location: Ithaca, NY
+        start_date: 2021
+        end_date: 2021
+        highlights:
+          - "Principles of Demography (Fall '21)"
+
+      - company: University of Washington
+        position: Instructor of Record
+        location: Seattle, WA
+        start_date: 2019
+        end_date: 2019
+        highlights:
+          - "Foundations of Social Inquiry (Summer '19)"
+
+    Awards:
+      - title: KSU Top Researcher Recognition
+        date: 2024
+        awarder: Kennesaw State University
+
+    Service:
+      - company: AMES Research Center, KSU
+        position: Faculty Affiliate and Data Core Member
+        start_date: 2022
+        end_date: present
+
+      - company: KSU Department of Sociology & Criminal Justice
+        position: Curriculum Committee Member
+        start_date: 2022
+        end_date: present
+
+      - company: Journal Reviewer
+        position: Ad Hoc Reviewer
+        highlights:
+          - American Sociological Review, Social Forces, Social Problems, Demography, Socius, Urban Affairs Review, Urban Studies, City & Community, Sociology of Race and Ethnicity, Spatial Demography, Housing Studies, Housing Policy Debate, Journal of Urban Affairs, Journal of Research on Crime and Delinquency, American Journal of Criminal Justice, Nature&#58; Cities, The Professional Geographer, Annals of the American Academy of Geographers, Demographic Research, Journal of Economic Inequality, Latino Studies, Health and Social Care in the Community, Urban Planning

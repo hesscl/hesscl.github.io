@@ -1,18 +1,37 @@
 ---
+layout: about
+title: about
 permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
+subtitle: Assistant Professor of Sociology, <a href="https://www.kennesaw.edu/" target="_blank">Kennesaw State University</a>
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false
+  more_info: >
+    <p>Department of Sociology &amp; Criminal Justice</p>
+    <p>Kennesaw State University</p>
+    <p>chess11@kennesaw.edu</p>
+
+news: false
+selected_papers: false
+social: true
 ---
 
-I'm currently an Assistant Professor of Sociology in the Department of Sociology and Criminal Justice at Kennesaw State University. Prior to this faculty appointment, I served as a postdoc at Cornell University in the Jeb E. Brooks School of Public Policy and I received my Ph.D in Sociology from the University of Washington.
+I am a quantitative sociologist with research interests in residential segregation, housing markets, crime, and population health. My work uses large-scale observational and administrative data to study how spatial and social structures shape inequality across American communities.
 
-My research focuses on topics of residential segregation, neighborhoods and the changing geography of place-based inequalities, and my work has appeared in peer-reviewed outlets like _Demography_, _Urban Affairs Review_ and  _Social Forces_. Across my research, I'm a data omnivore and a big proponent of the R language for statistics and data visualization. I especially ❤ ggplot2.
+My research spans four interrelated streams:
 
-A significant share of my ongoing research harnesses web data scraped from online rental housing platforms like Craigslist to understand the role of these information exchanges within the modern housing search process and extract policy-relevant information about rental housing conditions across the United States. This research is enabled by a unique data collection infrastructure based on many containerized [Helena](https://helena-lang.org) scrapers running within a Kubernetes cluster. My colleagues and I have used these data to:
-  1. assess the degree to which different types of neighborhoods are more or less represented online
-  2. measure differences in discourse about housing between neighborhoods
-  3. describe how different sources capture different market segments
+**Residential Diversity, Segregation, and Neighborhood Change.** The center of my research program examines the demographic and socioeconomic processes that produce and sustain residential segregation in the United States. Drawing on demography, spatial demography, and urban sociology, I study how racial and ethnic diversity unfolds across neighborhoods, how immigrant settlement reshapes metropolitan areas, and how long-run structural forces drive sorting and stratification. This work has been published in *Demography*, *Social Forces*, *Spatial Demography*, *Journal of Marriage and Family*, and other leading outlets.
+
+**Housing Markets and Online Platforms.** A related line of work examines how digital platforms and short-term rental markets (e.g., Airbnb) interact with neighborhood processes, reshaping housing access and reinforcing unequal outcomes. This research—published in *Environment & Planning A*, *Housing Policy Debate*, *Housing Studies*, and *Journal of Urban Affairs*—traces how platform-mediated transactions are embedded in existing structures of race and place.
+
+**Neighborhood Crime, Gangs, and Urban Change.** Another active stream investigates the spatial and social dynamics of gang-involved violence, neighborhood disadvantage, and urban crime trends. Using administrative crime records and longitudinal neighborhood data, this research—appearing in *Social Currents*, *International Criminology*, and *Deviant Behavior*—examines how concentrated disadvantage, residential instability, and gang structures shape patterns of violence in American cities.
+
+**Veteran Health, Housing Insecurity, and Community Well-Being.** Supported by grants from the U.S. Department of Veterans Affairs and the Georgia Department of Veterans Service totaling over $10M, I lead and collaborate on projects examining the intersection of veteran status, housing instability, and mental health—with a particular focus on suicide prevention among veterans in Georgia. This research bridges sociology, public health, and social work to inform policy responses to veteran homelessness and crisis.
+
+In addition to my empirical research, I develop open-source data infrastructure for social science, including Model Context Protocol (MCP) servers that connect AI assistants to public datasets such as the U.S. Census, CDC WONDER, and IPUMS—lowering the barrier to data-intensive research.
+
+I am a faculty affiliate of the [AMES Research Center](https://ames.kennesaw.edu/) at KSU. Prior to KSU I held postdoctoral positions at Rutgers–Camden and Cornell University. I received my PhD in Sociology from the University of Washington in 2019.
+
+[Google Scholar](https://scholar.google.com/citations?user=v3Db_L4AAAAJ) &nbsp;·&nbsp; [GitHub](https://github.com/hesscl) &nbsp;·&nbsp; [CV](/cv/)

@@ -1,10 +1,13 @@
 ---
-layout: archive
-title: "CV"
+layout: cv
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+title: CV
+nav: true
+nav_order: 4
+cv_format: rendercv
+description: >
+  Assistant Professor of Sociology at Kennesaw State University.
+  Research on residential segregation, housing markets, neighborhood change, urban crime, and veteran health.
+toc:
+  sidebar: left
 ---
-
-<iframe src="https://drive.google.com/file/d/1MWFqZGDlWEi4X2mljDJRj3aT03YJMSSa/preview" width="640" height="480" allow="autoplay"></iframe>
