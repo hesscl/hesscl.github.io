@@ -1,12 +1,12 @@
 ---
 layout: page
 title: quackrfss
-description: Fast access to BRFSS survey data (1984–2024) via DuckDB
+description: Fast access to BRFSS survey data (1990–2024) via DuckDB
 importance: 5
 category: software
 ---
 
-[quackrfss](https://github.com/hesscl/quackrfss) is a Python package that provides fast, analyst-friendly access to the Behavioral Risk Factor Surveillance System (BRFSS) — the CDC's annual telephone survey on health behaviors, chronic conditions, and preventive care, covering 1984 through 2024.
+[quackrfss](https://github.com/hesscl/quackrfss) is a Python package that provides fast, analyst-friendly access to the Behavioral Risk Factor Surveillance System (BRFSS) — the CDC's annual telephone survey on health behaviors, chronic conditions, and preventive care, covering 1990 through 2024.
 
 **Features:**
 - Download and cache BRFSS annual files automatically
