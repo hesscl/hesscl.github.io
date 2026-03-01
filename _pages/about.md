@@ -22,7 +22,7 @@ I am a quantitative sociologist with research interests in residential segregati
 
 My research spans four interrelated streams:
 
-**Residential Diversity, Segregation, and Neighborhood Change.** The center of my research program examines the demographic and socioeconomic processes that produce and sustain residential segregation in the United States. Drawing on demographic and computational methods, I study how racial and ethnic diversity unfolds across neighborhoods, how immigrant settlement reshapes metropolitan areas, and how long-run structural forces drive sorting and stratification.
+**Residential Diversity, Segregation, and Neighborhood Change.** The center of my research program examines the demographic and socioeconomic processes that produce and sustain residential segregation in the United States. Drawing on demographic and computational methods, I study how racial and ethnic diversity unfolds across neighborhoods, how suburbanization reshapes metropolitan areas, and how long-run structural forces drive sorting and stratification.
 
 **Housing Markets and Online Platforms.** A related line of work examines how digital platforms interact with neighborhood processes, reshaping housing access and reinforcing unequal outcomes. This research traces how platform-mediated transactions are embedded in existing structures of race and place.
 
